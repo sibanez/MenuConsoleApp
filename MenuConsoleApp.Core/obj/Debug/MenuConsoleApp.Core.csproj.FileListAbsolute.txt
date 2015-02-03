@@ -1,0 +1,5 @@
+C:\Users\sergio\Documents\GitHub\MenuConsoleApp\MenuConsoleApp.Core\bin\Debug\MenuConsoleApp.Core.dll
+C:\Users\sergio\Documents\GitHub\MenuConsoleApp\MenuConsoleApp.Core\bin\Debug\MenuConsoleApp.Core.pdb
+C:\Users\sergio\Documents\GitHub\MenuConsoleApp\MenuConsoleApp.Core\obj\Debug\MenuConsoleApp.Core.csprojResolveAssemblyReference.cache
+C:\Users\sergio\Documents\GitHub\MenuConsoleApp\MenuConsoleApp.Core\obj\Debug\MenuConsoleApp.Core.dll
+C:\Users\sergio\Documents\GitHub\MenuConsoleApp\MenuConsoleApp.Core\obj\Debug\MenuConsoleApp.Core.pdb
