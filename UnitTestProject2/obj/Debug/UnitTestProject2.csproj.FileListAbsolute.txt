@@ -1,5 +1,0 @@
-C:\Users\sergio\Documents\GitHub\MenuConsoleApp\UnitTestProject2\bin\Debug\UnitTestProject2.dll
-C:\Users\sergio\Documents\GitHub\MenuConsoleApp\UnitTestProject2\bin\Debug\UnitTestProject2.pdb
-C:\Users\sergio\Documents\GitHub\MenuConsoleApp\UnitTestProject2\obj\Debug\UnitTestProject2.csprojResolveAssemblyReference.cache
-C:\Users\sergio\Documents\GitHub\MenuConsoleApp\UnitTestProject2\obj\Debug\UnitTestProject2.dll
-C:\Users\sergio\Documents\GitHub\MenuConsoleApp\UnitTestProject2\obj\Debug\UnitTestProject2.pdb
