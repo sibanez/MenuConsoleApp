@@ -1,0 +1,9 @@
+d:\Users\sergio\Documents\Visual Studio 2013\Projects\ConsoleApplication1\MenuConsoleApp\bin\Release\MenuConsoleApp.dll
+d:\Users\sergio\Documents\Visual Studio 2013\Projects\ConsoleApplication1\MenuConsoleApp\bin\Release\MenuConsoleApp.pdb
+d:\Users\sergio\Documents\Visual Studio 2013\Projects\ConsoleApplication1\MenuConsoleApp\bin\Release\MenuConsoleApp.Core.dll
+d:\Users\sergio\Documents\Visual Studio 2013\Projects\ConsoleApplication1\MenuConsoleApp\bin\Release\Microsoft.UnitTestFramework.Extensions.dll
+d:\Users\sergio\Documents\Visual Studio 2013\Projects\ConsoleApplication1\MenuConsoleApp\bin\Release\MenuConsoleApp.Core.pdb
+d:\Users\sergio\Documents\Visual Studio 2013\Projects\ConsoleApplication1\MenuConsoleApp\bin\Release\Microsoft.UnitTestFramework.Extensions.xml
+d:\Users\sergio\Documents\Visual Studio 2013\Projects\ConsoleApplication1\MenuConsoleApp\obj\Release\MenuConsoleApp.csprojResolveAssemblyReference.cache
+d:\Users\sergio\Documents\Visual Studio 2013\Projects\ConsoleApplication1\MenuConsoleApp\obj\Release\MenuConsoleApp.dll
+d:\Users\sergio\Documents\Visual Studio 2013\Projects\ConsoleApplication1\MenuConsoleApp\obj\Release\MenuConsoleApp.pdb

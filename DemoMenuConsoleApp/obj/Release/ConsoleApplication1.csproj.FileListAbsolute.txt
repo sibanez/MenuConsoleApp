@@ -1,0 +1,13 @@
+C:\Users\sergio\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Release\ConsoleApplication1.exe.config
+C:\Users\sergio\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Release\ConsoleApplication1.exe
+C:\Users\sergio\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Release\ConsoleApplication1.pdb
+C:\Users\sergio\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Release\UnitTestProject1.dll
+C:\Users\sergio\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Release\UnitTestProject1.pdb
+C:\Users\sergio\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\obj\Release\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\sergio\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\obj\Release\ConsoleApplication1.exe
+C:\Users\sergio\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\obj\Release\ConsoleApplication1.pdb
+C:\Users\sergio\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Release\UnitTestProject2.dll
+C:\Users\sergio\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Release\UnitTestProject2.pdb
+d:\Users\sergio\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Release\ConsoleApplication1.exe.config
+d:\Users\sergio\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\obj\Release\ConsoleApplication1.exe
+d:\Users\sergio\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\obj\Release\ConsoleApplication1.pdb

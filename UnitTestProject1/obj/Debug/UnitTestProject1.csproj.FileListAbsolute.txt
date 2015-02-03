@@ -1,0 +1,5 @@
+C:\Users\sergio\Documents\Visual Studio 2013\Projects\ConsoleApplication1\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\sergio\Documents\Visual Studio 2013\Projects\ConsoleApplication1\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\sergio\Documents\Visual Studio 2013\Projects\ConsoleApplication1\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+C:\Users\sergio\Documents\Visual Studio 2013\Projects\ConsoleApplication1\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\sergio\Documents\Visual Studio 2013\Projects\ConsoleApplication1\UnitTestProject1\obj\Debug\UnitTestProject1.pdb

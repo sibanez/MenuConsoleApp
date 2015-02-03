@@ -1,0 +1,5 @@
+d:\Users\sergio\Documents\Visual Studio 2013\Projects\ConsoleApplication1\MenuConsoleApp.Core\bin\Release\MenuConsoleApp.Core.dll
+d:\Users\sergio\Documents\Visual Studio 2013\Projects\ConsoleApplication1\MenuConsoleApp.Core\bin\Release\MenuConsoleApp.Core.pdb
+d:\Users\sergio\Documents\Visual Studio 2013\Projects\ConsoleApplication1\MenuConsoleApp.Core\obj\Release\MenuConsoleApp.Core.csprojResolveAssemblyReference.cache
+d:\Users\sergio\Documents\Visual Studio 2013\Projects\ConsoleApplication1\MenuConsoleApp.Core\obj\Release\MenuConsoleApp.Core.dll
+d:\Users\sergio\Documents\Visual Studio 2013\Projects\ConsoleApplication1\MenuConsoleApp.Core\obj\Release\MenuConsoleApp.Core.pdb

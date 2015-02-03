@@ -1,0 +1,9 @@
+d:\Users\sergio\Documents\Visual Studio 2013\Projects\ConsoleApplication1\MenuConsoleApp.UnitTest\bin\Release\MenuConsoleApp.UnitTest.dll
+d:\Users\sergio\Documents\Visual Studio 2013\Projects\ConsoleApplication1\MenuConsoleApp.UnitTest\bin\Release\MenuConsoleApp.UnitTest.pdb
+d:\Users\sergio\Documents\Visual Studio 2013\Projects\ConsoleApplication1\MenuConsoleApp.UnitTest\bin\Release\MenuConsoleApp.Core.dll
+d:\Users\sergio\Documents\Visual Studio 2013\Projects\ConsoleApplication1\MenuConsoleApp.UnitTest\bin\Release\MenuConsoleApp.dll
+d:\Users\sergio\Documents\Visual Studio 2013\Projects\ConsoleApplication1\MenuConsoleApp.UnitTest\bin\Release\MenuConsoleApp.Core.pdb
+d:\Users\sergio\Documents\Visual Studio 2013\Projects\ConsoleApplication1\MenuConsoleApp.UnitTest\bin\Release\MenuConsoleApp.pdb
+d:\Users\sergio\Documents\Visual Studio 2013\Projects\ConsoleApplication1\MenuConsoleApp.UnitTest\obj\Release\MenuConsoleApp.UnitTest.csprojResolveAssemblyReference.cache
+d:\Users\sergio\Documents\Visual Studio 2013\Projects\ConsoleApplication1\MenuConsoleApp.UnitTest\obj\Release\MenuConsoleApp.UnitTest.dll
+d:\Users\sergio\Documents\Visual Studio 2013\Projects\ConsoleApplication1\MenuConsoleApp.UnitTest\obj\Release\MenuConsoleApp.UnitTest.pdb
