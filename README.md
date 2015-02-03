@@ -1,6 +1,4 @@
 # MenuConsoleApp
 Simple console menu 
 
-Opciones
-
-Fuentes
+https://siba.ghost.io/simple-menu-console-app/
